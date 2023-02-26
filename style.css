@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    padding: 25px;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+}
+
+.contenitore{
+    background-color: rgba(0, 0, 0, 0.50);
+    width: 1200px;
+    margin: auto;
+    padding: 100px;
+    border-radius: 20px;
+}
+
+header > img{
+    width: 250px;
+}
+
+header > div{
+    color: rgb(0, 224, 53);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+nav{
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(0, 224, 53);
+    padding: 10px;
+}
+
+main{
+    color: white;
+    font-size: 15px;
+}
+
+.bold{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+main spam{
+    font-size: 21px;
+    margin-right: 5px;
+}
+
+.carica1, .carica2, .carica3{
+    border-radius: 5px;
+    height: 30px;
+}
+
+.carica1{
+    background-color: rgb(253, 183, 100);
+    width: 320px;
+    
+}
+
+.carica2{
+    background-color: rgb(92, 192, 64);
+    width: 520px;
+}
+
+.carica3{
+    background-color: rgb(176, 74, 70);
+    width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
